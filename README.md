@@ -111,8 +111,11 @@ Misclassification Examples: Prediction vs Ground Truth
 
 ```
 Predict: jqa | GT: ljqa
+Predict: jhe | GT: jjhe
 Predict: rej | GT: reoj
+Predict: qele | GT: qeie
 Predict: nui | GT: nuji
+Predict: bamm | GT: bomm
 ```
 
 ---
