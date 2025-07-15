@@ -41,7 +41,7 @@ pip install tk
 
 ---
 
-## ✍️ Step 1: Generate Single-Character Images
+## 🔄 Step 1: Generate Single-Character Images
 
 ```bash
 python single_char_img_generator.py --font SpicyRice-Regular.ttf --output single_char_images --num_samples 200
@@ -74,7 +74,7 @@ This will open a simple GUI. For each image:
 
 ---
 
-## 🧪 Step 3: Train the CRNN Model
+## 🏋️‍♂️ Step 3: Train the CRNN Model
 
 Open the notebook:
 
@@ -117,7 +117,7 @@ Predict: nui | GT: nuji
 
 ---
 
-## 📎 License
+## ⚖️ License
 
 MIT License
 
