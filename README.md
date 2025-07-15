@@ -1,4 +1,4 @@
-# 🧠 Captcha Recognition with CRNN (Minimal Data, High Accuracy)
+# Captcha Recognition with CRNN (Minimal Data, High Accuracy)
 
 This project demonstrates how to train a high-accuracy 4-letter CAPTCHA recognition model using a small amount of labeled data. With just **~500 human-labeled CAPTCHA images**, we build a lightweight CRNN model that achieves over **96% test accuracy**.
 
