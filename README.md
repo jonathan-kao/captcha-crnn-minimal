@@ -58,7 +58,7 @@ Augmentations used:
 
 ## 🔖 Step 2: Manually Label CAPTCHA Images
 
-1. Place your raw unlabeled CAPTCHA images in the `unlabeled_captchas/` folder. (Must be `.png` and named numerically like `001.png`, `002.png`...)
+1. Place your raw unlabeled CAPTCHA images in the `unlabeled_captchas/` folder. (Must be `.png` and named numerically like `1.png`, `2.png`...)
 
 2. Run the labeling tool:
 
