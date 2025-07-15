@@ -105,7 +105,7 @@ The notebook includes:
 ## 📈 Example Results
 
 **Test Accuracy**: 96.97% (192/198 correct predictions)
-Typical error types: missing/extra characters, slight misalignment.
+Typical error types: missing characters, slight misalignment.
 
 Misclassification Examples: Prediction vs Ground Truth
 
