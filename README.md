@@ -107,7 +107,7 @@ The notebook includes:
 **Test Accuracy**: 96.97% (192/198 correct predictions)
 Typical error types: missing/extra characters, slight misalignment.
 
-Example Captchas (ground truth vs prediction):
+Misclassification Examples: Prediction vs Ground Truth
 
 ```
 Predict: jqa | GT: ljqa
